@@ -19,6 +19,10 @@ Quantum communication
 Secure information transfer
 Foundation for advanced quantum algorithms
 
+
+
+
+
 2. Quantum Algorithms with Qiskit
 Objective
 Implement foundational quantum algorithms that demonstrate quantum advantage.
@@ -45,6 +49,11 @@ Cryptography
 Search optimization
 Scientific computing
 
+
+
+
+
+
 3. Quantum Machine Learning
 Objective
 Explore the integration of quantum computing and artificial intelligence.
@@ -63,6 +72,13 @@ Data classification
 Learning Outcomes
 Develop quantum-enhanced AI models.
 Compare classical and quantum learning performance.
+
+
+
+
+
+
+
 
 4. Quantum Optimization
 Objective
@@ -95,6 +111,15 @@ Learning Outcomes
 Build hybrid optimization workflows.
 Understand variational quantum algorithms.
 
+
+
+
+
+
+
+
+
+
 5. Quantum Error Correction
 Objective
 
@@ -120,6 +145,17 @@ Learning Outcomes
 Understand quantum noise.
 Implement basic error correction schemes.
 
+
+
+
+
+
+
+
+
+
+
+
 6. Quantum AI Projects
 Objective
 
@@ -141,6 +177,21 @@ Healthcare analytics
 Learning Outcomes
 Design real-world Quantum AI workflows.
 Evaluate quantum advantages for intelligent systems.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 7. Learn Quantum with Qiskit
 Objective
