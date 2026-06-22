@@ -1,7 +1,6 @@
 # Quantum-Computing
 1. Quantum Computing Fundamentals
 Objective
-
 Introduce the core principles of quantum computing using Qiskit.
 
 Topics Covered
@@ -19,66 +18,43 @@ Applications
 Quantum communication
 Secure information transfer
 Foundation for advanced quantum algorithms
+
 2. Quantum Algorithms with Qiskit
 Objective
-
 Implement foundational quantum algorithms that demonstrate quantum advantage.
 
 Algorithms Included
 Deutsch Algorithm
-
 Determines whether a function is constant or balanced using a single query.
-
 Deutsch–Jozsa Algorithm
-
 Provides exponential speedup over classical approaches for specific oracle problems.
-
 Bernstein–Vazirani Algorithm
-
 Identifies a hidden binary string efficiently.
-
 Simon's Algorithm
-
 Introduces exponential quantum speedup and forms the basis of Shor's algorithm.
-
 Grover's Search
-
 Provides quadratic speedup for searching unsorted databases.
-
 Quantum Fourier Transform (QFT)
-
 Core building block for many quantum algorithms.
-
 Quantum Phase Estimation (QPE)
-
 Used in quantum chemistry and factoring problems.
-
 Shor's Algorithm
-
 Performs integer factorization exponentially faster than known classical methods.
-
 Applications
 Cryptography
 Search optimization
 Scientific computing
+
 3. Quantum Machine Learning
 Objective
-
 Explore the integration of quantum computing and artificial intelligence.
-
 Topics Covered
 QSVM
-
 Quantum Support Vector Machine for classification tasks.
-
 Variational Quantum Classifier (VQC)
-
 Hybrid quantum-classical machine learning model.
-
 Quantum Neural Networks
-
 Quantum-enhanced learning architectures.
-
 Applications
 Medical diagnosis
 Fraud detection
@@ -87,6 +63,7 @@ Data classification
 Learning Outcomes
 Develop quantum-enhanced AI models.
 Compare classical and quantum learning performance.
+
 4. Quantum Optimization
 Objective
 
@@ -117,6 +94,7 @@ Smart cities
 Learning Outcomes
 Build hybrid optimization workflows.
 Understand variational quantum algorithms.
+
 5. Quantum Error Correction
 Objective
 
@@ -141,6 +119,7 @@ Quantum hardware development
 Learning Outcomes
 Understand quantum noise.
 Implement basic error correction schemes.
+
 6. Quantum AI Projects
 Objective
 
@@ -162,6 +141,7 @@ Healthcare analytics
 Learning Outcomes
 Design real-world Quantum AI workflows.
 Evaluate quantum advantages for intelligent systems.
+
 7. Learn Quantum with Qiskit
 Objective
 
